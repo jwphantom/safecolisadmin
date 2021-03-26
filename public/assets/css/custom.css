@@ -1,0 +1,20 @@
+.flash_message_success{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background: green;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #FFF;
+  }
+  
+  .flash_message_danger{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background: red;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: #FFF;
+  }
